@@ -17,82 +17,11 @@ public class LotteryNumbers {
 		int four= eno.nextInt(9);
 		
 		int five= eno.nextInt(9);
-		
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
+
+
+	JOptionPane.showMessageDialog(null,one + "  " + two + " " + three + " " + four + " " + five + " ");
 }
-		
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
 }
 
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
 
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
 
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
-
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
-
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
-
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
-
-if (one==1) {
-	JOptionPane.showMessageDialog(null,"1");
-}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
-	}
-}
